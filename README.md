@@ -1,4 +1,4 @@
--- Salaries of San Francisco Employee Project
+# Salaries of San Francisco Employee Project
 -- Project Title: Salaries of San Francisco Employee(312882 data)
 -- Database: salaries_employees
 
