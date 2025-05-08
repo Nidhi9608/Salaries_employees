@@ -1,10 +1,10 @@
 # Salaries of San Francisco Employee Project
--- Project Title: Salaries of San Francisco Employee(312882 data)
--- Database: salaries_employees
+## Project Title: Salaries of San Francisco Employee(312882 data)
+## Database: salaries_employees
 
--- Project Structure
--- 1. Database Setup
--- Database Creation:
+# Project Structure
+## Database Setup
+Database Creation: A database named salaries_employees.
 -- Table Creation: A table named 'salaries' is created to store Salaries of San Francisco Employee data.
 
 -- Project Overview
