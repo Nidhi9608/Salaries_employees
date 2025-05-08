@@ -31,17 +31,7 @@ TotalPay FLOAT,
 TotalPayBenefits FLOAT,
 Year YEAR
 );
-SHOW GLOBAL VARIABLES LIKE 'local_infile';
-
-SET GLOBAL local_infile = 1;
-
-LOAD DATA INFILE 
-"R:\\Git\\Salaries For San Francisco Employee\\Total_null.csv"
-INTO TABLE salaries
-FIELDS TERMINATED BY ','
-ENCLOSED BY '"'
-LINES TERMINATED BY '\r\n'
-IGNORE 1 LINES;
 ```
+
 
 
